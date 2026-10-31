@@ -1,5 +1,8 @@
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/decode_balik/waifu.png
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/Ghost_XOR/chall.py
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/cleartext-sniffing/traffic.pcap
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/DeadDrop/infra-runbooks.zip
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/image-metadata/evidence.png
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/Perimeter_Breach/challenge_logs/access.log
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/Perimeter_Breach/challenge_logs/auth.log
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/Perimeter_Breach/challenge_logs/webapp.log
