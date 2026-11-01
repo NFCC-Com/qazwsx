@@ -14,6 +14,7 @@ https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/osint/investig
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/osint/office.png
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/osint/spotted.jpg
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/web/LinkVault.zip
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/web/NexusGate.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/web/PageStream.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/_post/01.jpg
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/_post/02.jpg
