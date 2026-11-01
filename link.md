@@ -1,5 +1,6 @@
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/BlackBoxProtocolN4T0/flight_recovery_manifest.xlsx
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/decode_balik/waifu.png
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/FlagKeepers/app.py
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/Ghost_XOR/chall.py
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/cleartext-sniffing/traffic.pcap
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/DeadDrop/infra-runbooks.zip
@@ -12,6 +13,8 @@ https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/osint/from_tra
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/osint/investigation.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/osint/office.png
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/osint/spotted.jpg
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/web/LinkVault.zip
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/web/PageStream.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/_post/01.jpg
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/_post/02.jpg
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/_post/03.jpg
