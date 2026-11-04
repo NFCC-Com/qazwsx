@@ -20,8 +20,15 @@ https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/osint/laporan_
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/osint/laporan_kegiatan_bulan_november.pdf
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/osint/office.png
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/osint/spotted.jpg
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/GatewayUnderPressure.zip
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/KunciSudoSingKesasar.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/NarrowGate.zip
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/OmahBufferKebak.zip
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/PipaNuKotor.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/Starved.zip
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/TalatahTiPeuntas.zip
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/TheBrokenResourceParser.zip
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/TheForgottenState.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/web/LinkVault.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/web/NexusGate.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/web/PageStream.zip
