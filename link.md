@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/Feistel
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/FlagKeepers/app.py
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/Ghost_XOR/chall.py
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/LWE/lwe.py
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/RSA_Coppersmith_cihuy/chall.py
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/Static_IV_Offline/challenge.py
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/Static_IV_Offline/output.txt
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/Twin_Prime_Lattice/challenge.py
