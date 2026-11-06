@@ -2,6 +2,7 @@ https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/BlackBo
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/Broken_Signature_Scheme_Multi_Layer/challenge.py
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/Broken_Signature_Scheme_Multi_Layer/output.txt
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/decode_balik/waifu.png
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/Dokodemo_Door/rahasia.pdf
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/ECDSA_Nonce_Bias/challenge.py
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/ECDSA_Nonce_Bias/output.txt
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/ECDSA_Nonce_Bias/pubkey.pem
@@ -18,6 +19,8 @@ https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/crypto/Twin_Pr
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/cleartext-sniffing/traffic.pcap
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/DeadDrop/infra-runbooks.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/image-metadata/evidence.png
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/invoice/invoice.png
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/panggilan_terakhir/korban.pcap
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/Perimeter_Breach/challenge_logs/access.log
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/Perimeter_Breach/challenge_logs/auth.log
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/Perimeter_Breach/challenge_logs/webapp.log
