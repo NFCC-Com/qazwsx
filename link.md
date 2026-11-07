@@ -26,6 +26,7 @@ https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/Perimete
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/Perimeter_Breach/challenge_logs/auth.log
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/Perimeter_Breach/challenge_logs/webapp.log
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/symhell/app.py
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/foren/weak_handshake/capture.pcapng
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/osint/from_train.jpeg
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/osint/investigation.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/osint/kebakaran.jpeg
@@ -42,6 +43,17 @@ https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/Starved.zi
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/TalatahTiPeuntas.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/TheBrokenResourceParser.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/TheForgottenState.zip
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/rev/Baby_01_Strings/baby_strings
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/rev/Baby_02_XOR/baby_xor
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/rev/Baby_03_Python/baby_python.py
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/rev/Easy_01_Bash_Layers/easy_bash.sh
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/rev/Easy_02_JS_Obfuscation/easy_js.js
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/rev/Easy_03_Config_Decoy/easy_config
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/rev/Hard_01_VM_Bytecode/hard_vm
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/rev/Hard_02_Feistel/hard_feistel
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/rev/Hard_03_Castaway/castaway
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/rev/Medium_01_RC4/medium_rc4
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/rev/Medium_02_TEA/medium_tea
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/web/LinkVault.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/web/NexusGate.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/web/PageStream.zip
