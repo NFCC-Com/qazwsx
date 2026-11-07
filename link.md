@@ -37,6 +37,7 @@ https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/osint/spotted.
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/GatewayUnderPressure.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/KunciSudoSingKesasar.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/NarrowGate.zip
+https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/NFXCTFConvention.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/OmahBufferKebak.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/PipaNuKotor.zip
 https://raw.githubusercontent.com/NFCC-Com/qazwsx/refs/heads/main/pwn/Starved.zip
